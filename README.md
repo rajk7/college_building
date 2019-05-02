@@ -1,12 +1,13 @@
 # college_building
-yjdfhfdg
+
+Screenshot of the project campus building
 ![](/other/collegeB.png)
 
-fhj5yuk5yuk
+real view of campus building
 ![](/other/collegeS.jpg)
 
-yktyktyk
+Screenshot of the project classroom 
 ![](other/classroomS.png)
 
-ktyuktyuk
+real view of classroom
 ![](/other/class.jpg)
