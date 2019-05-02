@@ -1,5 +1,12 @@
 # college_building
-![](/other/collegeB.jpg)
-![](/other/blanderS.png)
+yjdfhfdg
+![](/other/collegeB.png)
+
+fhj5yuk5yuk
+![](/other/collegeS.jpg)
+
+yktyktyk
 ![](other/classroomS.png)
+
+ktyuktyuk
 ![](/other/class.jpg)
